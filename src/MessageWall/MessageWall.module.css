@@ -1,0 +1,6 @@
+.message {
+    font-size: 5rem;
+    width: 100vw;
+    overflow-wrap: break-word;
+    text-align: center;
+}

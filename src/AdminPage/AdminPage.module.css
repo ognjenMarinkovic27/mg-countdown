@@ -1,0 +1,29 @@
+.link {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+}
+
+.login_link {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+}
+
+
+div {
+    display: flex;
+    flex-direction: column;
+    font-size: 2rem;
+}
+
+button {
+    font-size: 1rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+
+    background-color: transparent;
+    border: 1px solid #444;
+    color: white;
+    cursor: pointer;
+}
